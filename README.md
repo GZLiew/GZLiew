@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GZLiew
 - 👀 I’m interested in assembly, machine learning and electrical components
 - 🌱 I’m currently learning assembly
-- 📫 How to reach me:
+- 📫 How to reach me: guozhangliew@gmail.com
  https://github.com/GZLiew
 
 
